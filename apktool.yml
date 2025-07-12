@@ -1,0 +1,33 @@
+version: 2.9.0
+apkFileName: base.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 9
+  targetSdkVersion: 18
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 102
+  versionName: 1.0.2
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+doNotCompress:
+- resources.arsc
+- assets/Channel.txt
+- assets/bin/Data/68ff81ff2ab144baabe6b297a5309413
+- assets/bin/Data/PlayerConnectionConfigFile
+- assets/bin/Data/dd20c3e1e68164caa92e0bab6944e7a4
+- assets/bin/Data/e9ba4337a94d745839d7ef8e8b73453d
+- assets/bin/Data/sharedassets1.assets
+- assets/bin/Data/sharedassets3.assets.split1
+- assets/bin/Data/sharedassets3.assets.split2
+- assets/bin/Data/sharedassets3.assets.split3
+- assets/bin/Data/sharedassets3.assets.split4
+- png
+- mp3
